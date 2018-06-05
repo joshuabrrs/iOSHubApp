@@ -3,6 +3,7 @@ Innovation Hub iOS App
 https://innovation.fsu.edu
 
 Developers: 
+
 Andres Ibarra - https://github.com/AndibaOfficial
 
 Joshua Barrios - https://github.com/joshuabrrs
